@@ -1,30 +1,30 @@
 ---
 template: HomePage
 slug: ''
-title: Yellowcake
+title: Best Movers
 featuredImage: 'https://ucarecdn.com/159203d3-881d-4218-baa1-ca4427b48d0d/'
-subtitle: ' Welcome to the ultimate Gatsby and Netlify starter project.'
+subtitle: Get the movers you need in just one phone call.
 meta:
-  description: This is a meta description.
-  title: The Ultimate Gatsby Starter
+  description: >-
+    100% free moving quotes from local movers and long distance moving
+    companies. Get movers near me now! Need cross country movers? Storage?
+    Forget Uhaul trucks or pods. Get professional movers. 
+  title: Best Movers local moving companies
 ---
-Yellowcake is an opinionated starter project created by [Thrive Digital](https://thriveweb.com.au/) a [Gold Coast Web Design](https://thriveweb.com.au/) studio. to help you create lightening fast websites with [Gatsby](https://gatsbyjs.org) and [Netlify CMS](https://netlifycms.org).
+Best Movers will find you full service moving companies in your area who are fully licensed by the [Department of Transportation](www.transportation.gov) and make sure that your move goes smooth from start to finish. 
 
-View the [project overview](https://thriveweb.com.au/the-lab/yellowcake-gatsby-react-js-starter-project/) and the [docs](https://github.com/thriveweb/yellowcake/blob/master/README.md).
 
-# Features
 
-* **[Gatsby](https://gatsbyjs.org)** static site generator
-* **[Netlify CMS](https://github.com/netlify/netlify-cms)** for content management
-* Dynamic menus and forms
-* **[Mailchimp](http://mailchimp.com)** and **[Uploadcare](https://uploadcare.com)** integrations
-* Fully responsive layout for mobile and widescreen browsing
-* Blog searching and paging functionality
-* Seamless image and content sliders
-* Instagram feed integration
+# You Need Movers? We're here to help!
+
+* Accurate and courteous
+* Over 25 years in logistics
+* Thousands of happy customers
 
 ## Get started
 
-View the [Netlify CMS Docs](https://www.netlifycms.org/docs/) and the [Netlify CMS Repo](https://github.com/netlify/netlify-cms).
-
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/thriveweb/yellowcake&stack=cms)
+* Tell us about your move.
+  Where are you moving to? When and what?
+* We find up to four local movers that meet your needs and give you 100% free quotes.
+* Compare quotes and save
+  Select the best quote, relax, and let the pros do the heavy lifting so you don't have to.
